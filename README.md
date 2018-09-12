@@ -16,10 +16,10 @@ Looking for an experienced Java developer with practical experience of working o
 
 # Project examples: 
 
--Maintenance and enhancements of existing platform as well as addressing issues of scale
--Delivering bespoke projects for clients who use the software this work allows for a lot of autonomy around systems design and development 
--There will be the chance to work on building the new platform which will focus on real time data streaming 
--Working closely with Data Scientists to take Data models and Machine learning algorithms and turn them into production code. 
+- Maintenance and enhancements of existing platform as well as addressing issues of scale
+- Delivering bespoke projects for clients who use the software this work allows for a lot of autonomy around systems design and development 
+- There will be the chance to work on building the new platform which will focus on real time data streaming 
+- Working closely with Data Scientists to take Data models and Machine learning algorithms and turn them into production code. 
 
 # What experience is required?
 
