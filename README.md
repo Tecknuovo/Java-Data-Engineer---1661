@@ -26,7 +26,7 @@ Looking for an experienced Java developer with practical experience of working o
 -	Strong Core Java knowledge
 -	Experience of working with large data sets 
 -	Practical understanding of data security 
--	The ability to deliver projects with by gathering and understanding requirements  
+-	The ability to deliver projects from gathering requirements all the way to production
 
 Please email oliver.short@tecknuovo.com if you’d like to talk through the above in more detail.
 
